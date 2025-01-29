@@ -7,7 +7,9 @@ This project is being developed for the **Software Project** course and aims to 
 ---
 ### Booking Integration: Integrating with booking systems for hotels, ights, and activities;
 ---
-### Collaborative Planning Tools: Tools for collaborative itinerary planning with other travelers;
+### Planning Tools: Tools for itinerary planning;
+[function planning](https://github.com/Vct-Jully/Travel-Itinerary-Planner/blob/main/itinerary.dart)
+
 ---
 ### Travel Guides and Resources: Access to travel guides and resources;
 ---
@@ -20,3 +22,5 @@ This project is being developed for the **Software Project** course and aims to 
 ### Mobile Access and Ofine Functionality: Ensuring accessibility on mobile devices, including ofine access;
 ---
 ### User Reviews and Community Input: Incorporating user reviews and community suggestions into planning;
+[function review](https://github.com/Vct-Jully/Travel-Itinerary-Planner/blob/main/review.dart)
+
